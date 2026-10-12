@@ -1,0 +1,8 @@
+ollama
+sentence-transformers
+faiss-cpu
+numpy
+torch
+transformers
+fastapi
+uvicorn
